@@ -1,0 +1,27 @@
+{
+    "cell_color": "green",
+    "hsv_range": {
+        "hueMin": 33,
+        "hueMax": 80,
+        "satMin": 31,
+        "satMax": 255,
+        "valMin": 15,
+        "valMax": 255
+    },
+    "size_filter": {
+        "minSize": 30,
+        "maxSize": 2000
+    },
+    "circularity": 0.16,
+    "overlap_sensitivity": 0.6,
+    "morph_operations": {
+        "erosion": 1,
+        "dilation": 1
+    },
+    "region": {
+        "x": 0,
+        "y": 0,
+        "width": 800,
+        "height": 600
+    }
+}
